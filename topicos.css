@@ -10,7 +10,7 @@
     color: var(--branco);
     font-weight: 300;
     padding: 1em;
-    margin-bottom: 1em;
+    margin: 1em;
 }
 
 .topicos__lista
@@ -18,7 +18,6 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    
 }
 
 .topicos__link
